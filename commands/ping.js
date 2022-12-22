@@ -21,6 +21,6 @@ Astro.cmd({
         var inital = new Date().getTime();
         await citel.reply('```Ping!!!```');
         var final = new Date().getTime();
-        return await citel.reply('*Pong*\n *' + (final - inital) + ' ms* ');
+        return await citel.reply('*Ping*\n *' + (final - inital) + ' ms* ');
     }
 );
