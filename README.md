@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://citel.vercel.app/">
-    <img alt="hexa docs"height="300" src="https://secktorbot.onrender.com/main.jpg">
+    <img alt="hexa docs"height="280" src="https://user-images.githubusercontent.com/116909259/209130699-02288a50-21fb-4d0c-bd8a-41819d542374.jpg">
     <h1 align="center">Hexa MD Whatsapp bot</h1>
   </a>
 </p>
