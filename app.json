@@ -1,8 +1,8 @@
 {
-  "name": "Astro-Md",
+  "name": "Hexa-Md",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "AstroBot", "Astro","AstroMD","theme bot","multi device"],
+  "logo": "https://user-images.githubusercontent.com/116909259/209126359-f3f51a97-d78d-4034-8198-89a1729bff60.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "HexaBot", "Hexa","HexaMD","theme bot","multi device"],
   "success_url": "/",
   "stack": "container",
 "env": {
@@ -16,7 +16,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg"
+     "value": "https://user-images.githubusercontent.com/116909259/209126359-f3f51a97-d78d-4034-8198-89a1729bff60.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -85,7 +85,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "SamPandey001;Astro",
+     "value": "SamPandey001;Hexa",
      "required": false 
   }
 },
