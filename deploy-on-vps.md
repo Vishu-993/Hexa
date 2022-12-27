@@ -25,7 +25,7 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/Vishu-993/Hexa-Md
+      git clone https://github.com/Vishu-993/Hexa
       cd Hexa-Md
       yarn install --network-concurrency 1
       ```
